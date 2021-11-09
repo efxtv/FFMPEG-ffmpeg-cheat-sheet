@@ -1,0 +1,24 @@
+
+In this video, we are going to remove the background from given images using the convert command that comes under image magic.
+
+Run the command to install the image magic:
+$ sudo apt install imagemagick
+
+Before anything do not forget to update and upgrade your ubuntu
+
+Please subscribe if you are watching this video for the first time. Rest watch full video please keep supporting. If you want to add something to it let me know. I'll try to help.
+
+To get the command must watch the full video
+
+Send the images please
+ great :)
+
+client: good job
+	there is another image will be critical
+
+client: share the script with your subscribers
+
+#great you had same :) Lol this was just a joke... 
+
+I've just shared how multy users work in Ubuntu
+convert imoji.png -fuzz 20% -fill none -draw "matte 0,0 floodfill" result.png
